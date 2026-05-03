@@ -1,7 +1,4 @@
 TESD 1100 - Client-side Web Development
-<<<<<<< HEAD
 Math
-=======
 _skill development
 English
->>>>>>> c825a0aab6d9c9aa79440cf7797c3609c7fc3271
