@@ -1,0 +1,3 @@
+Tesd 1400 - computer programming
+tesd 1500 - database development
+tesd 1640 - mobile development
